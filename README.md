@@ -20,6 +20,7 @@ This case study will help Santander bank in identifying dissatisfied customers e
 
 **Results:**
 
+*Result set 1* <br> 
 The following are the results obtained for train and CV datasets with 183 features.
 
 | Model |Train AUC | CV AUC |
@@ -31,6 +32,7 @@ The following are the results obtained for train and CV datasets with 183 featur
 | AdaBoost Classifier (with 183 features)   |  0.847  | 0.833   |  
 | Neural Networks (with 183 features)       |  0.827  | 0.823   |
 
+*Result set 2* <br>
 The following are the results obtained for train and CV datasets with top 87 features.
 
 | Model |Train AUC | CV AUC |
