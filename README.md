@@ -50,7 +50,7 @@ The following are the results obtained for train and CV datasets with top 87 fea
 
 **Kaggle Submission:**
 
-![image](https://github.com/user-attachments/assets/52053e55-9b6a-4fe6-a54b-d7117c2a05e7)
+![image](https://github.com/user-attachments/assets/eea76d81-51af-487e-a409-9eabfaf94432)
 
 ![image](https://github.com/user-attachments/assets/7c2169ec-dac4-41a8-9951-0e933d15700a)
 
