@@ -18,7 +18,8 @@ This case study will help Santander bank in identifying dissatisfied customers e
 
 *Source - [Santander Customer Satisfaction](https://www.kaggle.com/competitions/santander-customer-satisfaction/data)*
 
-**Results**
+**Results:**
+
 The following are the results obtained for train and CV datasets with 183 features.
 
 | Model |Train AUC | CV AUC |
@@ -45,7 +46,7 @@ The following are the results obtained for train and CV datasets with top 87 fea
 - XG Boost Classifier performed better with top 87 features than XG Boost Classifier with 183 features.
 - Here, all the models are fitted with 3-fold CV for 10 iterations.
 
-**Kaggle Submission**
+**Kaggle Submission:**
 
 ![image](https://github.com/user-attachments/assets/52053e55-9b6a-4fe6-a54b-d7117c2a05e7)
 
