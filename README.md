@@ -53,12 +53,13 @@ The following are the results obtained for train and CV datasets with top 87 fea
 
 The Kaggle public score is found out to be 0.836 which is just 1.06% less than top Kaggle score.
 
-For more information about my case study, please feel free to go through my blog *[](https://medium.com/@SharathKumarVadla/santander-customer-satisfaction-146d20d67653)*
+For more information about my case study, please feel free to go through my blog<br> 
+*https://medium.com/@SharathKumarVadla/santander-customer-satisfaction-146d20d67653*
 
-References:
-1.	*'https://github.com/adithyaaijth/Assessing-Classification-Methods-For-Prediction-of-Customer-Satisfaction---Santander-Bank-Dataset'*
-2.	*[https://github.com/surajr/santander-customer-satisfaction/blob/master/Report.pdf]*
-3.	*[https://github.com/ashishthomaschempolil/Santander-Customer-Satisfaction]*
+**References:**
+- *https://github.com/adithyaaijth/Assessing-Classification-Methods-For-Prediction-of-Customer-Satisfaction---Santander-Bank-Dataset*
+- *https://github.com/surajr/santander-customer-satisfaction/blob/master/Report.pdf*
+- *https://github.com/ashishthomaschempolil/Santander-Customer-Satisfaction*
 
 
 
