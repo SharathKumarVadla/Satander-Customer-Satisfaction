@@ -63,7 +63,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Fig - Num
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Fig - Leaderboard position in the competition*
 <br><br>
 
-My public score 0.83632 stands at the 3022 in the leaderboard out of 5112 participants.
+My public score 0.83632 stands at the 3022 in the leaderboard out of 5116 participants.
 
 For more information about my case study, please feel free to go through my blog<br> 
 *https://medium.com/@SharathKumarVadla/santander-customer-satisfaction-146d20d67653*
