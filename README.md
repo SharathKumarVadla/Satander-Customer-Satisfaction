@@ -20,7 +20,7 @@ This case study will help Santander bank in identifying dissatisfied customers e
 
 **Results:**
 
-*Result set 1* <br> 
+*Results for dataset 1* <br> 
 The following are the results obtained for train and CV datasets with 183 features.
 
 | Model |Train AUC | CV AUC |
@@ -32,7 +32,7 @@ The following are the results obtained for train and CV datasets with 183 featur
 | AdaBoost Classifier (with 183 features)   |  0.847  | 0.833   |  
 | Neural Networks (with 183 features)       |  0.827  | 0.823   |
 
-*Result set 2* <br>
+*Results for  dataset 2* <br>
 The following are the results obtained for train and CV datasets with top 87 features.
 
 | Model |Train AUC | CV AUC |
@@ -44,7 +44,7 @@ The following are the results obtained for train and CV datasets with top 87 fea
 | AdaBoost Classifier (with top 87 features)   |  0.830  | 0.827   |
 | Neural Networks (with top 87 features)       |  0.828  | 0.821   |
 
-- From the result set 1 and 2, it is evident that XGB classifier performed better than other models.
+- From the results for datasets 1 and 2, it is evident that XGB classifier performed better than other models.
 - XG Boost Classifier performed better with top 87 features than XG Boost Classifier with 183 features.
 - Here, all the models are fitted with 3-fold CV for 10 iterations.
 
