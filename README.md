@@ -52,10 +52,18 @@ The following are the results obtained for train and CV datasets with top 87 fea
 
 ![image](https://github.com/user-attachments/assets/eea76d81-51af-487e-a409-9eabfaf94432)
 <br><br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Fig - Kaggle Scores*
+<br><br>
 ![image](https://github.com/user-attachments/assets/7c2169ec-dac4-41a8-9951-0e933d15700a)
 <br><br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Fig - Number of participants in the competition*
+<br><br>
 ![image](https://github.com/user-attachments/assets/075feba8-92c3-4f90-968f-8c0a34e8493b)
+<br><br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Fig - Leaderboard position in the competition*
+<br><br>
 
+My public score 0.83632 stands at the 3022 in the leaderboard.
 
 For more information about my case study, please feel free to go through my blog<br> 
 *https://medium.com/@SharathKumarVadla/santander-customer-satisfaction-146d20d67653*
