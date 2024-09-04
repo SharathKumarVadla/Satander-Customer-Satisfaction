@@ -52,9 +52,7 @@ The following are the results obtained for train and CV datasets with top 87 fea
 
 ![image](https://github.com/user-attachments/assets/52053e55-9b6a-4fe6-a54b-d7117c2a05e7)
 
-![image](https://github.com/user-attachments/assets/fcc74c89-fb11-4cb9-a64d-5f7a910ecbf1)
-
-The Kaggle public score is found out to be 0.836 which is just 1.06% less than top Kaggle score.
+![image](https://github.com/user-attachments/assets/7c2169ec-dac4-41a8-9951-0e933d15700a)
 
 For more information about my case study, please feel free to go through my blog<br> 
 *https://medium.com/@SharathKumarVadla/santander-customer-satisfaction-146d20d67653*
